@@ -1,0 +1,29 @@
+body{
+    text-align:center;
+    background-color:#EBF3E8;
+}
+
+#titulo{
+    text-align:center;
+    color:#B2C8BA;
+    font-size:50px;
+    backfround-color:#D2E3C8;
+}
+
+.texto{
+    text-align:center;
+    color:#86A789;
+    font-size:30px;
+    
+}
+
+.simple-highlight{
+    color: white;
+    background-color: brown;
+    padding: 0.1em 0.2em;
+}
+
+.paragrafo1{
+    background-image: linear-gradient(#A9B388, #A9ff88);
+
+}
